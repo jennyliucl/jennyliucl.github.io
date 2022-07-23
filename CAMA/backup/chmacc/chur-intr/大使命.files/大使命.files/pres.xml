@@ -1,0 +1,46 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint"
+ xmlns:oa="urn:schemas-microsoft-com:office:activation">
+ <p:presentation sizeof="screen" gridspacingx="46448" gridspacingy="46448">
+  <p:master id="4" slidesn="1C00D99,B6B7A560" type="main" href="master04.htm"
+   xmlhref="master04.xml" template="Mountain Top" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#993300,#FFFFFF,#4C3A1C,#CCAA00,#FF3300,#9E6600,#FFCC00,#F7DC97"/>
+    <p:colorscheme
+     colors="#9188B0,#FFFFFF,#3D0058,#DDE0DC,#FFCC00,#4C3D78,#743D78,#CC9900"/>
+    <p:colorscheme
+     colors="#003366,#FFFFFF,#10104C,#C6CCD4,#33CCFF,#5B5B8D,#4529AB,#00CC99"/>
+    <p:colorscheme
+     colors="#000099,#FFFFFF,#B0C8CA,#FFFFFF,#89C4FF,#00008C,#6666FF,#C0C0C0"/>
+    <p:colorscheme
+     colors="#003399,#FFFFFF,#463416,#E3E3FF,#3399FF,#33CCCC,#00FFCC,#808000"/>
+    <p:colorscheme
+     colors="#6699FF,#FFFFFF,#809296,#B3EDFF,#FF9933,#FFAA99,#FFCFAB,#CC9900"/>
+    <p:colorscheme
+     colors="#85D1E3,#FFFFFF,#006666,#CCFFFF,#FFCC00,#00CC99,#0099FF,#6600CC"/>
+    <p:colorscheme
+     colors="#A7A491,#FFFFFF,#404B3D,#CCD0CA,#33CCCC,#004E4C,#477781,#85CC74"/>
+    <p:colorscheme
+     colors="#FFFFFF,#000000,#676597,#FFFFAF,#66CCFF,#CCECFF,#6600CC,#008080"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="5" slidesn="1C00D99,B6B7A560" type="title" href="master05.htm"
+   xmlhref="master05.xml" layout="title_subtitle"
+   slots="centerTitle,subTitle,dateTime,footer,slideNumber"/>
+  <p:slide id="1" slidesn="0,0" href="slide0001.htm"/>
+  <p:slide id="2" slidesn="0,0" href="slide0002.htm" layout="title_body"
+   slots="title,body"/>
+  <p:viewstate type="slideView" slidehref="slide0002.htm" scale="50"
+   restoredleft="156" restoredtop="946" manualadjustleft="t" manualadjusttop="t"
+   hideoutlineicons="t"/>
+  <p:font name="Times New Roman" charset="0" type="4"/>
+  <p:font name="新細明體" charset="136" type="4" family="18"/>
+  <p:headersfooters noheader="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hideslideanimation="t"
+   browsersupport="v4"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="6171"/>
+</xml>

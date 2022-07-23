@@ -1,0 +1,44 @@
+/¦L¶HÃC¦â&#12540;(¨Ò)#CCCCCC¡÷0xCCCCCC
+&image_color=0x1492CD&
+
+
+
+&menu1=<font color="#0000db">¡½</font>¦^­º­¶&
+&menu1c=&
+&url1=123456.htm&
+&target1=_EditRegion3&
+
+&menu2=<font color="#0000db">¡½</font>CAMAÂ²¤¶&
+&menu2c=«Å«H³Õ¤h»P¥@¬É«Å¹D·|&
+&url2=introduce.htm&@
+&target2=_EditRegion3&
+
+&menu3=<font color="#0000db">¡½</font>¥xÆW«Å¹D·|<&
+&menu3c=¥xÆW«Å¹D·|µo®i¾ú¥v¤Î²ÕÂ´ªk³Wµ¥&
+&url3=downlond\taiwen.htm& 
+&target3=_EditRegion3&
+
+&menu4=<font color="#0000db">¡½</font>¥xÆW¦U°ó·|&
+&menu4c=¥ş¬Ù¦U°ó·|ºô§}µ¥¬ÛÃö¸ê®Æ&
+&url4=church.html&@
+&target4=_EditRegion3&
+
+&menu5=<font color="#0000db">¡½</font>Áp·|¯d¨¥ª©  &
+&menu5c=¤@¥y¸Ü»¡±o¦X©y¡A´N¦pª÷Ä«ªG¦b»Èºô¸Ì&
+&url5=1.html&@
+&target5=_EditRegion3&
+
+&menu6=<font color="#0000db">¡½</font>Áp·|¤½§GÄæ&
+&menu6c=¤½§GÁp·|¬ÛÃö¨Æ©y&
+&url6=http://twcama.fhl.net/cgi-bin/rogbook.cgi?twcama&@
+&target6=_EditRegion3&
+
+&menu7=<font color="#0000db">¡½</font>ºô¸ôªª³õ&
+&menu7c=¤@½g¦n¤å´ş¼í¤H¤ß&
+&url7=1.html&@
+&target7=_EditRegion3&
+
+&menu8=<font color="#0000db">¡½</font>«Å¹D¯«¾Ç°|&
+&menu8c=¥ş²y°ß¤@¥HµØ»y±Â½Ò°V½m¤§«Å¹D·|¯«¾Ç°|&
+&url8=http://tatc.tworg.net//&@
+&target8=_blank&

@@ -1,0 +1,11 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#img_6b4db2e2 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none;  }
+@media only screen and (max-width: 640px)
+{
+		#img_6b4db2e2 { width:100%; height:auto;  }
+}
